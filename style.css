@@ -1,1 +1,28 @@
+body {
+    background: linear-gradient(
+        -15deg,
+        #33DD33,
+        #DD33DD
+    );
+}
+
+img {
+    height: 300px;
+}
+
+h1 {
+    color: yellow;
+}
+
+.paragraphOne {
+    color: yellow;
+}
+
+.paragraphTwo {
+    color: rgb(179, 255, 0);
+}
+
+.paragraphThree {
+    color: rgb(170, 39, 71);
+}
 
